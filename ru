@@ -19,19 +19,19 @@ pedik
 perdet
 petuh
 pidar gnoinyj
-piz'det
-piz`dyulina
-pizd'uk
 pizda
 pizdato
 pizdatyi
+piz'det
 pizdetc
 pizdoi nakryt'sja
-po khuy
-po'imat' na konchik
-po'iti posrat
+pizd'uk
+piz`dyulina
 podi ku'evo
 poeben
+po'imat' na konchik
+po'iti posrat
+po khuy
 poluchit pizdy
 pososi moyu konfetku
 prissat
@@ -51,12 +51,12 @@ svodit posrat
 svoloch
 trakhat'sya
 trimandoblydskiy pizdoproyob
-u'ebitsche
 ubl'yudok
 uboy
-v pizdu
+u'ebitsche
 vafl'a
 vafli lovit
+v pizdu
 vyperdysh
 vzdrochennyi
 yeb vas
@@ -85,17 +85,19 @@ zlo'ebuchy
 дерьмо
 дрочить
 другой дразнится
+ёбарь
 ебать
 ебать-копать
 ебло
 ебнуть
+ёб твою мать
 жопа
 жополиз
 играть на кожаной флейте
 измудохать
 каждый дрочит как он хочет
-как два пальца обоссать
 какая разница
+как два пальца обоссать
 курите мою трубку
 лысого в кулаке гонять
 малофя
@@ -105,16 +107,16 @@ zlo'ebuchy
 муда
 мудило
 мудозмон
+наебать
+наебениться
+наебнуться
 на фиг
 на хуй
 на хую вертеть
 на хуя
-наебать
-наебениться
-наебнуться
 нахуячиться
-не ебет
 невебенный
+не ебет
 ни за хуй собачу
 ни хуя
 обнаженный
@@ -138,15 +140,13 @@ zlo'ebuchy
 хер с ним
 хохол
 хрен
+хуёво
+хуёвый
 хуем груши околачивать
 хуеплет
 хуило
 хуиней страдать
 хуиня
 хуй
-хуй пинать
 хуйнуть
-хуёво
-хуёвый
-ёб твою мать
-ёбарь
+хуй пинать

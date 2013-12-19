@@ -36,9 +36,9 @@ de ballen
 de hoer spelen
 de hond uitlaten
 de koffer induiken
+delg
 de pijp aan maarten geven
 de pijp uitgaan
-delg
 dombo
 draaikontg
 driehoog achter wonen
@@ -107,16 +107,16 @@ neuken
 neukstier
 nicht
 oetlul
-op z'n hondjes
-op z'n sodemieter geven
 opgeilen
 opkankeren
 oprotten
 opsodemieteren
+op z'n hondjes
+op z'n sodemieter geven
 opzouten
-ouwe rukker
 ouwehoer
 ouwehoeren
+ouwe rukker
 paal
 paardelul
 palen
@@ -135,8 +135,8 @@ potverdorie
 publiciteitsgeil
 raaskallen
 reet
-reet trappen, voor zijn
 reetridder
+reet trappen, voor zijn
 remsporeng
 reutelen
 rothoer

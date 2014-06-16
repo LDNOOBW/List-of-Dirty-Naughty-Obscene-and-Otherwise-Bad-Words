@@ -8,6 +8,8 @@ Obvious warning: These lists contain material that many will find offensive.  (B
 
 Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our case, the question we use is, "What wouldn't we want to *suggest* that people look at?"  This of course varies between culture, language, and geographies, so in the end we just have to make our best guess.
 
+See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
+
 © 2012–2014 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)

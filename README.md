@@ -8,6 +8,31 @@ Obvious warning: These lists contain material that many will find offensive.  (B
 
 Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our case, the question we use is, "What wouldn't we want to *suggest* that people look at?"  This of course varies between culture, language, and geographies, so in the end we just have to make our best guess.
 
+## Languages
+
+| Name             | Code |
+| ---------------- | ---- |
+| [Chinese](zh)    | zh   |
+| [Czech](cs)      | cs   |
+| [Danish](da)     | da   |
+| [Dutch](nl)      | nl   |
+| [English](en)    | en   |
+| [Esperanto](eo)  | eo   |
+| [Finnish](fi)    | fi   |
+| [French](fr)     | fr   |
+| [German](de)     | de   |
+| [Hungarian](hu)  | hu   |
+| [Italian](it)    | it   |
+| [Japanese](ja)   | ja   |
+| [Korean](ko)     | ko   |
+| [Norwegian](no)  | no   |
+| [Portuguese](pt) | pt   |
+| [Russian](ru)    | ru   |
+| [Spanish](es)    | es   |
+| [Swedish](sv)    | sv   |
+| [Thai](th)       | th   |
+| [Turkish](tr)    | tr   |
+
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
 © 2012–2014 Shutterstock, Inc.

@@ -9,6 +9,8 @@ or send a pull request.
 
 * [jQuery.ProfanityFilter](https://github.com/ChaseFlorell/jQuery.ProfanityFilter):
   jQuery plugin to filter out profane words on the client
+* [Arena Metrics] (http://www.arena.co.ke):
+  Arena Metrics uses these lists to prevent users from popping offensive words into polls and surveys
 
 ## Documents
 

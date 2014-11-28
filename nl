@@ -170,7 +170,6 @@ tongzoeng
 triootjeg
 trottoir prostituée
 trottoirteef
-utrecht
 vergallen
 verkloten
 verneuken

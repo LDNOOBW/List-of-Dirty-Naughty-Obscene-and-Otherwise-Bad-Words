@@ -27,6 +27,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Klingon](tlh)   | tlh  |
 | [Korean](ko)     | ko   |
 | [Norwegian](no)  | no   |
+| [Polish](pl)     | pl   |
 | [Portuguese](pt) | pt   |
 | [Russian](ru)    | ru   |
 | [Spanish](es)    | es   |

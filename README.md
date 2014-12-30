@@ -24,6 +24,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Hungarian](hu)  | hu   |
 | [Italian](it)    | it   |
 | [Japanese](ja)   | ja   |
+| [Klingon](tlh)   | tlh  |
 | [Korean](ko)     | ko   |
 | [Norwegian](no)  | no   |
 | [Portuguese](pt) | pt   |

@@ -12,7 +12,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 | Name             | Code |
 | ---------------- | ---- |
-| Chinese    | zh   |
+| [Chinese](words.json#L10)    | zh   |
 | Czech      | cs   |
 | Danish     | da   |
 | Dutch      | nl   |

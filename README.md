@@ -12,28 +12,28 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 | Name             | Code |
 | ---------------- | ---- |
-| [Chinese](zh)    | zh   |
-| [Czech](cs)      | cs   |
-| [Danish](da)     | da   |
-| [Dutch](nl)      | nl   |
-| [English](en)    | en   |
-| [Esperanto](eo)  | eo   |
-| [Finnish](fi)    | fi   |
-| [French](fr)     | fr   |
-| [German](de)     | de   |
-| [Hungarian](hu)  | hu   |
-| [Italian](it)    | it   |
-| [Japanese](ja)   | ja   |
-| [Klingon](tlh)   | tlh  |
-| [Korean](ko)     | ko   |
-| [Norwegian](no)  | no   |
-| [Polish](pl)     | pl   |
-| [Portuguese](pt) | pt   |
-| [Russian](ru)    | ru   |
-| [Spanish](es)    | es   |
-| [Swedish](sv)    | sv   |
-| [Thai](th)       | th   |
-| [Turkish](tr)    | tr   |
+| Chinese    | zh   |
+| Czech      | cs   |
+| Danish     | da   |
+| Dutch      | nl   |
+| English    | en   |
+| Esperanto  | eo   |
+| Finnish    | fi   |
+| French     | fr   |
+| German     | de   |
+| Hungarian  | hu   |
+| Italian    | it   |
+| Japanese   | ja   |
+| Klingon   | tlh  |
+| Korean     | ko   |
+| Norwegian  | no   |
+| Polish     | pl   |
+| Portuguese | pt   |
+| Russian    | ru   |
+| Spanish    | es   |
+| Swedish    | sv   |
+| Thai       | th   |
+| Turkish    | tr   |
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 

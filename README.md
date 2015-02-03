@@ -38,7 +38,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
-© 2012–2014 Shutterstock, Inc.
+© 2012–2015 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 

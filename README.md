@@ -21,8 +21,8 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Finnish](fi)    | fi   |
 | [French](fr)     | fr   |
 | [German](de)     | de   |
+| [Hindi](hi)      | hi   |
 | [Hungarian](hu)  | hu   |
-| [Hindi](hn)      | hn   |
 | [Italian](it)    | it   |
 | [Japanese](ja)   | ja   |
 | [Klingon](tlh)   | tlh  |

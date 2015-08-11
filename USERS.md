@@ -8,9 +8,14 @@ or send a pull request.
 ## Projects
 
 * [jQuery.ProfanityFilter](https://github.com/ChaseFlorell/jQuery.ProfanityFilter):
-  jQuery plugin to filter out profane words on the client
-* [Arena Metrics] (http://www.arena.co.ke):
-  Arena Metrics uses these lists to prevent users from popping offensive words into polls and surveys
+  jQuery plugin to filter out profane words on the client.
+* [grunt-naughty-words](https://www.npmjs.com/package/grunt-naughty-words):
+  Node.js npm library that provides a grunt task for creating an array of
+  profane words, and a regex to test against, as well as the capability to
+  compile your own obscene word list.
+* [Arena Metrics](http://www.arena.co.ke):
+  Arena Metrics uses these lists to prevent users from popping offensive words
+  into polls and surveys.
 
 ## Documents
 

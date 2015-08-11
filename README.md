@@ -12,6 +12,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 | Name             | Code |
 | ---------------- | ---- |
+| [Arabic](ar)     | ar   |
 | [Chinese](zh)    | zh   |
 | [Czech](cs)      | cs   |
 | [Danish](da)     | da   |

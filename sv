@@ -1,20 +1,26 @@
 arsle
 brutta
+discofitta
 dra åt helvete
 fan
 fitta
 fittig
 för helvete
+helvete
 hård
 jävlar
 knulla
 kuk
+kuksås
+kötthuvud
+köttnacke
 moona
 moonade
 moonar
 moonat
 mutta
 nigger
+neger
 olla
 pippa
 pitt

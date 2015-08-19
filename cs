@@ -27,7 +27,6 @@ piča
 píčus
 píchat
 pizda
-poník
 prcat
 prdel
 prdelka

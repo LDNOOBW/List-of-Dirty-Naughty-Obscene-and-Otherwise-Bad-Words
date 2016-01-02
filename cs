@@ -24,6 +24,7 @@ mrdka
 mrdník
 oslošoust
 piča
+píča
 píčus
 píchat
 pizda

@@ -19,6 +19,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Dutch](nl)      | nl   |
 | [English](en)    | en   |
 | [Esperanto](eo)  | eo   |
+| [Filipino](fil)  | fil  |
 | [Finnish](fi)    | fi   |
 | [French](fr)     | fr   |
 | [German](de)     | de   |

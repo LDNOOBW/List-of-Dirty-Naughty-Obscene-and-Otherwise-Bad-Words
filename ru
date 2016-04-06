@@ -67,7 +67,6 @@ zalupat
 zasranetc
 zassat
 zlo'ebuchy
-бардак
 бздёнок
 блядки
 блядовать

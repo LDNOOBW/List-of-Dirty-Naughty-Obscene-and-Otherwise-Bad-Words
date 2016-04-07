@@ -24,6 +24,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [German](de)     | de   |
 | [Hindi](hi)      | hi   |
 | [Hungarian](hu)  | hu   |
+| [Indonesian](id) | id   |
 | [Italian](it)    | it   |
 | [Japanese](ja)   | ja   |
 | [Klingon](tlh)   | tlh  |

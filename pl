@@ -51,3 +51,4 @@ suka
 syf
 wkurwiać
 zajebisty
+zjebany

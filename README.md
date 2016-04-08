@@ -45,3 +45,5 @@ See also the [list of projects, documents, and organizations](USERS.md) that use
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+This work uses contents from Wiktionary “https://en.wiktionary.org/wiki/Category:Vulgarities_by_language” available under a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).

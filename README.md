@@ -24,6 +24,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [German](de)     | de   |
 | [Hindi](hi)      | hi   |
 | [Hungarian](hu)  | hu   |
+| [Indonesian](id) | id   |
 | [Italian](it)    | it   |
 | [Japanese](ja)   | ja   |
 | [Klingon](tlh)   | tlh  |
@@ -40,7 +41,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
-© 2012–2015 Shutterstock, Inc.
+© 2012–2016 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 

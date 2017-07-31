@@ -12,4 +12,4 @@ randi ko baan
 randi ko choro
 puti
 bhatla
-tero bau ko turi
+tero bau ko sano turi

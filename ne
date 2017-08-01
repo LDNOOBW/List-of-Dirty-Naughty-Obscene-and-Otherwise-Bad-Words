@@ -1,42 +1,42 @@
-muji
-laado
-maachikney
-randi
-saale
-sale
-saley
-khaate
-bhaalu
-bhaate
-kukur
-chikney
-randi ko baan
-randi ko choro
-puti
-bhatla
-tero bau ko sano turi
-randi ko pwal
-randi ko chakh
-puti
-bhatla
-tero bau ko sano turi
-condo
-jaantha
-bhatuwa
 Bandar ko chaak
 Chick-day
 Goo kha
 Gula chus randi
-laado chus
-puti chaat
 Lado ko tupo
-tutturay
-condo hannay
-fushi kha
+bhaalu
+bhaate
+bhatla
+bhatuwa
 chak chat
-poka chus
-lado cicha
+chikney
+condo
+condo hannay
 dudh ko tuppo
+fushi kha
+jaantha
+khaate
+kukur
+laado
+laado chus
+lado cicha
+maachikney
+muji
+poka chus
+puti
+puti chaat
 puti ko jhol
-turi tauke
+randi
+randi ko baan
+randi ko chakh
+randi ko choro
+randi ko pwal
+saale
+sale
+saley
 tero aama ko 5 5 kilo ko aalu
+tero bau
+tero bau ko sano turi
+tero bau ko tauko
+tero tauko
+turi tauke
+tutturay

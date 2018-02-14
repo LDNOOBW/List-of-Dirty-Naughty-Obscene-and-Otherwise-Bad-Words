@@ -1,4 +1,4 @@
-aardappels afgieteng
+aardappels afgieten
 achter het raam zitten
 afberen
 aflebberen
@@ -15,7 +15,7 @@ aso
 bagger schijten
 balen
 bedonderen
-befborstelg
+befborstel
 beffen
 bekken
 belazeren
@@ -24,11 +24,11 @@ besodemieteren
 beurt
 boemelen
 boerelul
-boerenpummelg
+boerenpummel
 bokkelul
 botergeil
 broekhoesten
-brugpieperg
+brugpieper
 buffelen
 buiten de pot piesen
 da's kloten van de bok
@@ -36,8 +36,7 @@ de ballen
 de hoer spelen
 de hond uitlaten
 de koffer induiken
-delg
-de pijp aan maarten geven
+del
 de pijp uitgaan
 dombo
 draaikontg
@@ -62,7 +61,7 @@ gesodemieter
 godverdomme
 graftak
 gras maaien
-gratenkutg
+gratenkut
 greppeldel
 griet
 hoempert
@@ -75,7 +74,7 @@ hufter
 huisdealer
 johny
 kanen
-kettingzeugg
+kettingzeug
 klaarkomen
 klerebeer
 klojo
@@ -90,17 +89,17 @@ kontneuken
 krentekakker
 kut
 kuttelikkertje
-kwakkieg
+kwakkie
 liefdesgrot
 lul
 lul-de-behanger
 lulhannes
 lummel
 mafketel
-matennaaierg
+matennaaier
 matje
 mof
-mutsg
+muts
 naaien
 naakt
 neuken
@@ -137,7 +136,7 @@ raaskallen
 reet
 reetridder
 reet trappen, voor zijn
-remsporeng
+remsporen
 reutelen
 rothoer
 rotzak
@@ -150,17 +149,17 @@ schoft
 schuinsmarcheerder
 shit
 slempen
-sletg
+slet
 sletterig
 slik mijn zaad
-snolg
+snol
 spuiten
 standje
-standje-69g
+standje-69
 stoephoer
 stootje
-strontg
-sufferdg
+stront
+sufferd
 tapijtnek
 teefg
 temeier

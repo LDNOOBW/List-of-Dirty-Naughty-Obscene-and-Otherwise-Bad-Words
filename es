@@ -45,6 +45,7 @@ Mierda
 Nazi
 Orina
 Pedo
+Pendejo
 Pervertido
 Pezón
 Pinche

@@ -1,4 +1,4 @@
-# List of Dirty, Naughty, Obscene, and Otherwise Bad Words in different languages #
+# List of dirty, naughty, obscene, and otherwise bad words in different languages #
 
 Please add to it as you see fit (particularly in non-English languages) or use it to spice up your next game of Scrabble :)
 

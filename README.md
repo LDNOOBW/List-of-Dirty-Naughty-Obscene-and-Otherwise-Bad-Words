@@ -1,6 +1,4 @@
-# Our List of Dirty, Naughty, Obscene, and Otherwise Bad Words #
-
-With millions of images in our library and billions of user-submitted keywords, we work hard at Shutterstock to make sure that bad words don't show up in places they shouldn't.  This repo contains a list of words that we use to filter results from our autocomplete server and recommendation engine.
+# List of Dirty, Naughty, Obscene, and Otherwise Bad Words in different languages #
 
 Please add to it as you see fit (particularly in non-English languages) or use it to spice up your next game of Scrabble :)
 

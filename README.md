@@ -36,10 +36,4 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Thai](th)       | th   |
 | [Turkish](tr)    | tr   |
 
-See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
-
-© 2012–2015 Shutterstock, Inc.
-
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
-
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

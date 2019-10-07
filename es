@@ -2,7 +2,6 @@ Asesinato
 asno
 bastardo
 Bollera
-Cabron
 Cabrón
 Caca
 Chupada

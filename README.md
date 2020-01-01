@@ -10,38 +10,48 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 ## Languages
 
-| Name             | Code |
-| ---------------- | ---- |
-| [Arabic](ar)     | ar   |
-| [Chinese](zh)    | zh   |
-| [Czech](cs)      | cs   |
-| [Danish](da)     | da   |
-| [Dutch](nl)      | nl   |
-| [English](en)    | en   |
-| [Esperanto](eo)  | eo   |
-| [Filipino](fil)  | fil  |
-| [Finnish](fi)    | fi   |
-| [French](fr)     | fr   |
-| [German](de)     | de   |
-| [Hindi](hi)      | hi   |
-| [Hungarian](hu)  | hu   |
-| [Italian](it)    | it   |
-| [Japanese](ja)   | ja   |
-| [Klingon](tlh)   | tlh  |
-| [Korean](ko)     | ko   |
-| [Norwegian](no)  | no   |
-| [Persian](fa)    | fa   |
-| [Polish](pl)     | pl   |
-| [Portuguese](pt) | pt   |
-| [Russian](ru)    | ru   |
-| [Spanish](es)    | es   |
-| [Swedish](sv)    | sv   |
-| [Thai](th)       | th   |
-| [Turkish](tr)    | tr   |
+| Name                               | Code              |
+| ---------------------------------- | ----------------- |
+| [Arabic](ar)                       | ar                |
+| [Chinese](zh)                      | zh                |
+| [Czech](cs)                        | cs                |
+| [Danish](da)                       | da                |
+| [Dutch](nl)                        | nl                |
+| [English](en)                      | en                |
+| [Esperanto](eo)                    | eo                |
+| [Filipino](fil)                    | fil               |
+| [Finnish](fi)                      | fi                |
+| [French](fr)                       | fr                |
+| [French (CA)](fr-CA-u-sd-caqc)     | fr-CA-u-sd-caqc   |
+| [German](de)                       | de                |
+| [Hindi](hi)                        | hi                |
+| [Hungarian](hu)                    | hu                |
+| [Italian](it)                      | it                |
+| [Japanese](ja)                     | ja                |
+| [Kabyle](kab)                      | kab               |
+| [Klingon](tlh)                     | tlh               |
+| [Korean](ko)                       | ko                |
+| [Norwegian](no)                    | no                |
+| [Persian](fa)                      | fa                |
+| [Polish](pl)                       | pl                |
+| [Portuguese](pt)                   | pt                |
+| [Russian](ru)                      | ru                |
+| [Spanish](es)                      | es                |
+| [Swedish](sv)                      | sv                |
+| [Thai](th)                         | th                |
+| [Turkish](tr)                      | tr                |
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
-© 2012–2015 Shutterstock, Inc.
+## Node Module
+
+If you are using the word lists as `.json`, or in an `npm`project, you can install the word list using the [naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) package.
+
+```bash
+npm install naughty-words-js
+```
+
+© 2012–2019 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 

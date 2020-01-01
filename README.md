@@ -45,10 +45,10 @@ See also the [list of projects, documents, and organizations](USERS.md) that use
 
 ## Node Module
 
-If you are using the word lists as `.json`, or in an `npm`project, you can install the word list using the [naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) package.
+If you are using the word lists as `.json`, or in an `npm`project, you can install the word list using the [naughty-words](https://github.com/LDNOOBW/naughty-words-js) package.
 
 ```bash
-npm install naughty-words-js
+npm install naughty-words
 ```
 
 © 2012–2019 Shutterstock, Inc.

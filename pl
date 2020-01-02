@@ -16,10 +16,9 @@ fiut
 gówno
 gówno prawda
 huj
+huj ci w dupę
 jajco
-jajeczko
 jajko
-jajo
 ja pierdolę
 jebać
 jebany
@@ -34,11 +33,13 @@ obciągać loda
 pieprzyć
 pierdolec
 pierdolić
+pierdolnąć
 pierdolnięty
 pierdoła
 pierdzieć
 pizda
 pojeb
+pojebany
 popierdolony
 robic loda
 robić loda

@@ -2,7 +2,6 @@ Asesinato
 asno
 bastardo
 Bollera
-Cabron
 Cabrón
 Caca
 Chupada
@@ -45,6 +44,7 @@ Mierda
 Nazi
 Orina
 Pedo
+Pendejo
 Pervertido
 Pezón
 Pinche

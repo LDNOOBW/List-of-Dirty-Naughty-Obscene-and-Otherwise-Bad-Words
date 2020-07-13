@@ -51,7 +51,7 @@ If you are using the word lists as `.json`, or in an `npm`project, you can insta
 npm install naughty-words
 ```
 
-© 2012–2019 Shutterstock, Inc.
+© 2012–2020 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 

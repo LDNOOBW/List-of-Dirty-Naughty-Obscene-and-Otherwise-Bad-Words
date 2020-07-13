@@ -16,6 +16,8 @@ or send a pull request.
 * [Arena Metrics](http://www.arena.co.ke):
   Arena Metrics uses these lists to prevent users from popping offensive words
   into polls and surveys.
+* [osm-compare](https://github.com/mapbox/osm-compare) uses these lists to flag profanity in name tags when finding what changed during a feature edit on OpenStreetMap.
+<!-- * [Liquidata](https://www.dolthub.com/repositories/Liquidata/bad-words) uses these lists to create demo SQL tables for [Dolt](https://www.reddit.com/r/git/comments/cdl022/dolt_its_git_for_data/) consumers. -->
 
 ## Documents
 

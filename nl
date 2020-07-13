@@ -8,7 +8,7 @@ aftrekken
 afwerkplaats
 afzeiken
 afzuigen
-anderhalve man en een paardekop
+een halve man en een paardekop
 anita
 asbak
 aso
@@ -39,9 +39,9 @@ de koffer induiken
 del
 de pijp uitgaan
 dombo
-draaikontg
+draaikont
 driehoog achter wonen
-drolg
+drol
 drooggeiler
 droogkloot
 een beurt geven
@@ -84,7 +84,7 @@ klootoog
 klootzak
 kloten
 knor
-kontg
+kont
 kontneuken
 krentekakker
 kut
@@ -119,7 +119,7 @@ ouwe rukker
 paal
 paardelul
 palen
-penozeg
+penoze
 piesen
 pijpbekkieg
 pijpen
@@ -161,7 +161,7 @@ stootje
 stront
 sufferd
 tapijtnek
-teefg
+teef
 temeier
 teringlijer
 toeter

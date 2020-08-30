@@ -38,6 +38,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Russian](ru)                      | ru                |
 | [Spanish](es)                      | es                |
 | [Swedish](sv)                      | sv                |
+| [Tamil](ta)                        | ta                |
 | [Thai](th)                         | th                |
 | [Turkish](tr)                      | tr                |
 

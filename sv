@@ -41,3 +41,29 @@ subba
 sås
 sätta på
 tusan
+pucko
+kåt
+sätta på
+hora
+mongo
+särbarn
+missfoster
+miffo
+efterbliven
+kåtbock
+gå och dö
+blatte
+jugge
+nasse
+rasse
+horunge
+bög
+fjolla
+mes
+dumhuvud
+skit
+pulla
+skäggbiff
+sliddjur
+fittslem
+finnjävel

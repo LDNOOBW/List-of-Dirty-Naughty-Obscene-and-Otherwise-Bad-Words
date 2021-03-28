@@ -40,6 +40,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Swedish](sv)                      | sv                |
 | [Thai](th)                         | th                |
 | [Turkish](tr)                      | tr                |
+| [Welsh](cy)                        | cy                |
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 

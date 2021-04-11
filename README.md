@@ -41,6 +41,17 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Thai](th)                         | th                |
 | [Turkish](tr)                      | tr                |
 
+### Current pull request languages:
+| Name                               | Code              |
+| ---------------------------------- | ----------------- |
+| [Australian Kriol](rop)            | rop               |
+| [Hawaiian](haw)                    | haw               |
+| [Māori](mi)                        | mi                |
+| [Norfuk](pih)                      | pih               |
+| [Samoan](sm)                       | sm                |
+| [Tongan](ton)                      | ton               |
+| [Welsh](cy)                        | cy                |
+
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
 ## Node Module

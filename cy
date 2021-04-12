@@ -28,7 +28,7 @@ gachu
 gast
 gwain
 gwaedlyd
-gweithgaredd rhywio
+gweithgaredd rhywiol
 gwlyb yn ôl
 holocost
 hŵr

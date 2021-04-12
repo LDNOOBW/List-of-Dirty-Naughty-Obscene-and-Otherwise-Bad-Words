@@ -27,6 +27,7 @@ mam cnuchiwr
 mam cnuchwyr
 mam ffycin
 natsi
+natsïaeth
 natsïaid
 pedoffeil
 pen ceiliog

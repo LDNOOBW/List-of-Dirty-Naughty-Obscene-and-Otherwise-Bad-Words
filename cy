@@ -7,6 +7,9 @@ cachu
 cachu tarw
 cawod euraidd
 clown asyn
+coc
+coc bach
+coc mawr
 cnuchiwr
 cnuchwyr
 codi pidyn
@@ -23,6 +26,9 @@ gachu
 gast
 gwain
 gwaedlyd
+gweithgaredd rhywiol
+hŵr
+hwren
 llofruddiaeth
 mam cnuchiwr
 mam cnuchwyr
@@ -39,12 +45,17 @@ pen crac
 pen ffyc
 pen tywel
 pidyn
+pidyn bach
+pidyn mawr
 pornograffi
 rhyw
 rhyw geneuol
 rhyw hoyw 
 rhyw rhefrol
+siagwr defaid
+siagwir defaid
 sugno fy ceiliog
+sugno fy coc
 sugno fy nghnau
 sugno fy peni
 sugno fy pidyn
@@ -57,4 +68,5 @@ tresio
 treisiwr
 twll asyn
 twll cachu
+wain
 wyneb asyn

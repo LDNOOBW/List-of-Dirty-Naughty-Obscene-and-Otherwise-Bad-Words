@@ -1,6 +1,8 @@
 ast
 bidyn
+bronten
 butain
+bwbechni
 bwyta fy mwtyn
 bwytawr cyri
 cachu
@@ -26,7 +28,9 @@ gachu
 gast
 gwain
 gwaedlyd
-gweithgaredd rhywiol
+gweithgaredd rhywio
+gwlyb yn ôl
+holocost
 hŵr
 hwren
 llofruddiaeth
@@ -35,9 +39,11 @@ mam cnuchwyr
 mam ffycin
 môr-leidr asyn
 môr-leidr 
+mwnci porth
 natsi
 natsïaeth
 natsïaid
+paciwr cyffug
 pedoffeil
 pen cachu
 pen ceiliog
@@ -48,6 +54,7 @@ pidyn
 pidyn bach
 pidyn mawr
 pornograffi
+puteindra
 rhyw
 rhyw geneuol
 rhyw hoyw 
@@ -68,5 +75,7 @@ tresio
 treisiwr
 twll asyn
 twll cachu
+uffern ffycin
+uffern waedlyd
 wain
 wyneb asyn

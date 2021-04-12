@@ -1,11 +1,12 @@
 ast
-asyn
 bidyn
 butain
+bwyta fy mwtyn
 bwytawr cyri
 cachu
 cachu tarw
 cawod euraidd
+clown asyn
 cnuchiwr
 cnuchwyr
 codi pidyn
@@ -26,12 +27,16 @@ llofruddiaeth
 mam cnuchiwr
 mam cnuchwyr
 mam ffycin
+môr-leidr asyn
+môr-leidr 
 natsi
 natsïaeth
 natsïaid
 pedoffeil
+pen cachu
 pen ceiliog
 pen crac
+pen ffyc
 pen tywel
 pidyn
 pornograffi
@@ -50,3 +55,6 @@ tarw yn cachu
 tomi
 tresio
 treisiwr
+twll asyn
+twll cachu
+wyneb asyn

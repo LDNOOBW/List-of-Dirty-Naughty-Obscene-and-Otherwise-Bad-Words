@@ -5,6 +5,8 @@ butain
 bwytawr cyri
 cachu
 cawod euraidd
+cnuchiwr
+cnuchwyr
 codi pidyn
 cyfathrach rywiol
 erthyliad
@@ -19,6 +21,8 @@ gachu
 gwain
 gwaedlyd
 llofruddiaeth
+mam cnuchiwr
+mam cnuchwyr
 mam ffycin
 natsi
 natsïaid

@@ -4,6 +4,7 @@ bidyn
 butain
 bwytawr cyri
 cachu
+cachu tarw
 cawod euraidd
 cnuchiwr
 cnuchwyr
@@ -18,6 +19,7 @@ fwlfa
 ffyc
 ffycin
 gachu
+gast
 gwain
 gwaedlyd
 llofruddiaeth
@@ -28,6 +30,7 @@ natsi
 natsïaid
 pedoffeil
 pen ceiliog
+pen crac
 pen tywel
 pidyn
 pornograffi
@@ -42,6 +45,7 @@ sugno fy pidyn
 sugnwr ceiliog
 sut i ladd
 sut i lofruddio
+tarw yn cachu
 tomi
 tresio
 treisiwr

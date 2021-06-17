@@ -59,6 +59,7 @@ vafli lovit
 v pizdu
 vyperdysh
 vzdrochennyi
+xyu
 yeb vas
 za'ebat
 zaebis

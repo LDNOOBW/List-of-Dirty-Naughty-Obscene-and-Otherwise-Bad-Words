@@ -1,5 +1,5 @@
-bychara
-byk
+
+
 chernozhopyi
 dolboy'eb
 ebalnik

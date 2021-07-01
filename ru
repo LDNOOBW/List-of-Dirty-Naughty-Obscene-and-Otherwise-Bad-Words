@@ -1,5 +1,3 @@
-
-
 chernozhopyi
 dolboy'eb
 ebalnik

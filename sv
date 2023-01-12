@@ -31,7 +31,9 @@ röv
 rövhål
 rövknulla
 satan
+skit
 skita
+skitsnack
 skit ner dig
 skäggbiff
 snedfitta

@@ -1,68 +1,68 @@
-Asesinato
+asesinato
 asno
 bastardo
-Bollera
-Cabrón
-Caca
-Chupada
-Chupapollas
-Chupetón
+bollera
+cabrón
+caca
+chupada
+chupapollas
+chupetón
 concha
-Concha de tu madre
-Coño
-Coprofagía
-Culo
-Drogas
-Esperma
-Fiesta de salchichas
-Follador
-Follar
-Gilipichis
-Gilipollas
-Hacer una paja
-Haciendo el amor
-Heroína
-Hija de puta
-Hijaputa
-Hijo de puta
-Hijoputa
-Idiota
-Imbécil
+concha de tu madre
+coño
+coprofagía
+culo
+drogas
+esperma
+fiesta de salchichas
+follador
+follar
+gilipichis
+gilipollas
+hacer una paja
+haciendo el amor
+heroína
+hija de puta
+hijaputa
+hijo de puta
+hijoputa
+idiota
+imbécil
 infierno
-Jilipollas
-Kapullo
-Lameculos
-Maciza
-Macizorra
+jilipollas
+kapullo
+lameculos
+maciza
+macizorra
 maldito
-Mamada
-Marica
-Maricón
-Mariconazo
+mamada
+marica
+maricón
+mariconazo
 martillo
-Mierda
-Nazi
-Orina
-Pedo
-Pendejo
-Pervertido
-Pezón
-Pinche
-Pis
-Prostituta
-Puta
-Racista
-Ramera
-Sádico
-Semen
-Sexo
-Sexo oral
-Soplagaitas
-Soplapollas
-Tetas grandes
-Tía buena
-Travesti
-Trio
-Verga
+mierda
+nazi
+orina
+pedo
+pendejo
+pervertido
+pezón
+pinche
+pis
+prostituta
+puta
+racista
+ramera
+sádico
+semen
+sexo
+sexo oral
+soplagaitas
+soplapollas
+tetas grandes
+tía buena
+travesti
+trio
+verga
 vete a la mierda
-Vulva
+vulva

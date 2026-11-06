@@ -24,6 +24,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [French](fr)                       | fr                |
 | [French (CA)](fr-CA-u-sd-caqc)     | fr-CA-u-sd-caqc   |
 | [German](de)                       | de                |
+| [Greek](el)                        | el                |
 | [Hindi](hi)                        | hi                |
 | [Hungarian](hu)                    | hu                |
 | [Italian](it)                      | it                |
